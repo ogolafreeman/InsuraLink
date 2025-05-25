@@ -4,7 +4,7 @@ InsuraLink – A Smart Insurance Customer Portal System
 That's a strong and relevant idea—especially in today's digital landscape where customers demand self-service, transparency, and real-time access to their insurance information.
 ---
 
-## ✅ **Project Name **:
+## ✅ **Project Name (Insura Link)**:
 
 **InsuraLink** – A Smart Insurance Customer Portal System
 
